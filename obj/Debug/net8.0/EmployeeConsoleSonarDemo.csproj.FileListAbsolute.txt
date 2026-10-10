@@ -1,0 +1,14 @@
+C:\Users\v.singh.bhadoria\LearnDemoCode\EmployeesData\bin\Debug\net8.0\EmployeeConsoleSonarDemo.exe
+C:\Users\v.singh.bhadoria\LearnDemoCode\EmployeesData\bin\Debug\net8.0\EmployeeConsoleSonarDemo.deps.json
+C:\Users\v.singh.bhadoria\LearnDemoCode\EmployeesData\bin\Debug\net8.0\EmployeeConsoleSonarDemo.runtimeconfig.json
+C:\Users\v.singh.bhadoria\LearnDemoCode\EmployeesData\bin\Debug\net8.0\EmployeeConsoleSonarDemo.dll
+C:\Users\v.singh.bhadoria\LearnDemoCode\EmployeesData\bin\Debug\net8.0\EmployeeConsoleSonarDemo.pdb
+C:\Users\v.singh.bhadoria\LearnDemoCode\EmployeesData\obj\Debug\net8.0\EmployeeConsoleSonarDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v.singh.bhadoria\LearnDemoCode\EmployeesData\obj\Debug\net8.0\EmployeeConsoleSonarDemo.AssemblyInfoInputs.cache
+C:\Users\v.singh.bhadoria\LearnDemoCode\EmployeesData\obj\Debug\net8.0\EmployeeConsoleSonarDemo.AssemblyInfo.cs
+C:\Users\v.singh.bhadoria\LearnDemoCode\EmployeesData\obj\Debug\net8.0\EmployeeConsoleSonarDemo.csproj.CoreCompileInputs.cache
+C:\Users\v.singh.bhadoria\LearnDemoCode\EmployeesData\obj\Debug\net8.0\EmployeeConsoleSonarDemo.dll
+C:\Users\v.singh.bhadoria\LearnDemoCode\EmployeesData\obj\Debug\net8.0\refint\EmployeeConsoleSonarDemo.dll
+C:\Users\v.singh.bhadoria\LearnDemoCode\EmployeesData\obj\Debug\net8.0\EmployeeConsoleSonarDemo.pdb
+C:\Users\v.singh.bhadoria\LearnDemoCode\EmployeesData\obj\Debug\net8.0\EmployeeConsoleSonarDemo.genruntimeconfig.cache
+C:\Users\v.singh.bhadoria\LearnDemoCode\EmployeesData\obj\Debug\net8.0\ref\EmployeeConsoleSonarDemo.dll
